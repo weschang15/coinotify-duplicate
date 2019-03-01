@@ -8,6 +8,6 @@ This excludes our formula used to trigger bid and ask trades via Bittrex API. Th
 
 ## Features
 
-- Securly connect Bittrex account with API keys (encrpted with AES 256)
+- TODO:// Securely connect Bittrex account with API keys (encrpted with AES 256)
 - Regularly pings Binance API for up-to-date data
 - Runs bids/asks concurrently without blocking the event loop using background processing with AgendaJS
