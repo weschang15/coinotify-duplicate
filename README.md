@@ -4,7 +4,7 @@ This is the nightly version of our MVP. I am in the process of converting from a
 
 ## For portfolio purposes only
 
-This excludes our formula used trigger bid and ask trades via Bittrex API. This repo also excludes the React frontend
+This excludes our formula used to trigger bid and ask trades via Bittrex API. This repo also excludes the React frontend
 
 ## Features
 
